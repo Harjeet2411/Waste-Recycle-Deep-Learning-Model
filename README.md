@@ -1,9 +1,12 @@
-# Waste-Recycle-Deep-Learning-Model
+**Waste-Recycle-Deep-Learning-Model**
 
-#About Dataset
+**Dataset Source**
+https://www.kaggle.com/datasets/techsash/waste-classification-data
+
+**About Dataset**
 WASTE CLASSIFICATION
 
-#PROBLEM
+**PROBLEM**
 Waste management is a big problem in our country. Most of the wastes end up in landfills. This leads to many issues like
 Increase in landfills
 Eutrophication
