@@ -3,6 +3,9 @@
 **Dataset Source**
 https://www.kaggle.com/datasets/techsash/waste-classification-data
 
+**Deployment Link**
+https://waste-recycle.onrender.com/
+
 **About Dataset**
 WASTE CLASSIFICATION
 
