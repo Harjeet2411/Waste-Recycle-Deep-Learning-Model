@@ -6,7 +6,7 @@ from PIL import Image
 MODELSPATH = 'waste_model.h5'
 DATAPATH = 'waste1.jpg'
 
-@st.cache_data
+@st.cache_resource
 def load_data():
     img = Image.open(DATAPATH)
     return img
