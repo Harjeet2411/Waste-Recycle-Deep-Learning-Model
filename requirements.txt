@@ -2,3 +2,4 @@ streamlit==0.82.0
 tensorflow==2.5.0
 pillow==8.2.0
 protobuf~=3.19.0
+blinker==1.4
